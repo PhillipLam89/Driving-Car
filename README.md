@@ -3,20 +3,20 @@
 An HTML, CSS, and JavaScript driving game.
 
 
-Technologies Used
+# Technologies Used
 
 
-Features
-Teachers can view a list of recorded grades.
-Teachers can view the average grade.
-Teachers can add a grade to the table.
-Teachers can delete a grade from the table.
+# Features
+User can choose starting direction of the car
+User can start/stop driving with space-bar
+User can use arrow keys while car is moving to change directions properly
+User can allow car to go off screen
 
-Preview
+# Preview
 
 
 
-System Requirements
+# System Requirements
 
 
 git clone https://github.com/Learning-Fuze/sgt-react
