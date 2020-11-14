@@ -4,7 +4,9 @@ An HTML, CSS, and JavaScript driving game.
 
 
 # Technologies Used
-
+  HTML 
+  CSS
+  JavaScript
 
 # Features
 User can choose starting direction of the car
